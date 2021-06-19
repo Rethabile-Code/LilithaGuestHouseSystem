@@ -1,0 +1,63 @@
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.exe
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.vbprojResolveAssemblyReference.cache
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.Resources.resources
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.vbproj.GenerateResource.Cache
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.exe
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.xml
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.pdb
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.Developers.resources
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.Management.resources
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.RECEPTION.resources
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.ADDEMPLOYEE.resources
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.ADDGUEST.resources
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.CHECKIN.resources
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.GUESTINFO.resources
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.HISTORY.resources
+c:\users\ree rethabile\documents\visual studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.REPORTS.resources
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.ADDROOM.resources
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.RESERVATION.resources
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.PAYMENT.resources
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.EMPLOYEEINFO.resources
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.frmROOMLIST.resources
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.NewUser.resources
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.HomePage.resources
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\LILITHAGUESTHOUSE.exe.config
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\LILITHAGUESTHOUSE.exe
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\LILITHAGUESTHOUSE.pdb
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\LILITHAGUESTHOUSE.xml
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\LILITHAGUESTHOUSE.exe.CodeAnalysisLog.xml
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\LILITHAGUESTHOUSE.exe.lastcodeanalysissucceeded
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.exe.config
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.pdb
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.xml
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.exe.CodeAnalysisLog.xml
+C:\Users\Ree Rethabile\Documents\Visual Studio 2015\Projects\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.exe.lastcodeanalysissucceeded
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.exe.config
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.exe
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.pdb
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.xml
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.exe.CodeAnalysisLog.xml
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\bin\Debug\LILITHAGUESTHOUSE.exe.lastcodeanalysissucceeded
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.vbprojAssemblyReference.cache
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.ADDEMPLOYEE.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.ADDGUEST.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.ADDROOM.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.CHECKIN.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.Developers.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.GUESTINFO.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.HISTORY.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.HomePage.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.Management.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.EMPLOYEEINFO.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.NewUser.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.Reception.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.PAYMENT.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.Resources.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.REPORTS.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.RESERVATION.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.frmROOMLIST.resources
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.vbproj.GenerateResource.cache
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.vbproj.CoreCompileInputs.cache
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.exe
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.xml
+C:\Users\Rethabile\Documents\Visual Studio 2019\LILITHAGUESTHOUSE\LILITHAGUESTHOUSE\obj\Debug\LILITHAGUESTHOUSE.pdb
